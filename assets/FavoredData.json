@@ -1,0 +1,16 @@
+[
+  { 
+    "id": "1",
+    "title": "Sahl Solution",
+    "sub_title": "Special Service",
+    "body": "This text is an example of a text that can be replaced in the same space.",
+    "url": "https://cdn.pixabay.com/photo/2022/07/12/08/15/grass-7316770__340.jpg"
+  },
+  {
+    "id": "2",
+    "title": "Papers",
+    "sub_title": "General Service",
+    "body": "This text is an example of a text that can be replaced in the same space.",
+    "url": "https://cdn.pixabay.com/photo/2022/06/25/23/41/ladybug-7284337__480.jpg"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "ques": "question number 1 ?",
+    "options": [
+      {
+        "id": "01",
+        "text": "Additions 1"
+      },
+      {
+        "id": "02",
+        "text": "Additions 2"
+      },
+      {
+        "id": "03",
+        "text": "Additions 3"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "ques": "question number 2 ?",
+    "options": [
+      {
+        "id": "01",
+        "text": "Additions 1"
+      },
+      {
+        "id": "02",
+        "text": "Additions 2"
+      },
+      {
+        "id": "03",
+        "text": "Additions 3"
+      }
+    ]
+  }
+]

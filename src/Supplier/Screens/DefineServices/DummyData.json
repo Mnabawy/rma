@@ -1,0 +1,24 @@
+[
+  {
+    "id": "1",
+    "title": "Recycling",
+    "items": [
+      {"id": "02", "title": "Plastic"},
+      {"id": "02", "title": "Glass"},
+      {"id": "02", "title": "Papers"},
+      {"id": "02", "title": "Glass"},
+      {"id": "02", "title": "Papers"}
+    ]
+  },
+  {
+    "id": "1",
+    "title": "Recycling",
+    "items": [
+      {"id": "02", "title": "Plastic"},
+      {"id": "02", "title": "Glass"},
+      {"id": "02", "title": "Papers"},
+      {"id": "02", "title": "Glass"},
+      {"id": "02", "title": "Papers"}
+    ]
+  }
+]

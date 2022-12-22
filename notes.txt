@@ -1,0 +1,9 @@
+to generate apk 
+// in android: ./gradlew clean
+
+//in main project root: npx react-native bundle --platform android --dev false --entry-file index.js --bundle-output android/app/src/main/assets/index.android.bundle --assets-dest android/app/src/main/res
+
+//in for depug apk android folder: ./gradlew assembleDebug
+
+//no bundle url found
+// npx react-native bundle --dev false --platform ios --entry-file index.js --bundle-output ios/main.jsbundle --assets-dest ./ios

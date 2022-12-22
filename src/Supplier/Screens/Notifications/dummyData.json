@@ -1,0 +1,41 @@
+[
+  {
+    "id": "01197d24-5d7d-49e0-a7e2-462fe5acdeb6",
+    "type": "Corals\\Modules\\Marketplace\\Notifications\\StoreOrderReceivedNotification",
+    "notifiable_id": 1,
+    "notifiable_type": "Corals\\User\\Models\\User",
+    "data": {
+      "title": "An order has been added to your store",
+      "body": "<p>You receieved an order at your store <a href=\"https://ndeeb.dosedev.com/marketplace/orders/store\">Here</a></p>"
+    },
+    "read_at": null,
+    "created_at": "2021-01-31 19:24:36",
+    "updated_at": "2021-01-31 19:24:36"
+  },
+  {
+    "id": "043987bc-ff64-4d1d-8a44-b535fde7e7a4",
+    "type": "Corals\\Modules\\Marketplace\\Notifications\\StoreOrderReceivedNotification",
+    "notifiable_id": 1,
+    "notifiable_type": "Corals\\User\\Models\\User",
+    "data": {
+      "title": "An order has been added to your store",
+      "body": "<p>You receieved an order at your store <a href=\"https://jwalee-ksa.com/marketplace/orders/store\">Here</a></p>"
+    },
+    "read_at": null,
+    "created_at": "2020-12-24 22:28:47",
+    "updated_at": "2020-12-24 22:28:47"
+  },
+  {
+    "id": "09864c8f-2daa-411f-a1f2-b52d1398e1bf",
+    "type": "Corals\\Modules\\Marketplace\\Notifications\\StoreOrderReceivedNotification",
+    "notifiable_id": 1,
+    "notifiable_type": "Corals\\User\\Models\\User",
+    "data": {
+      "title": "An order has been added to your store",
+      "body": "<p>You receieved an order at your store <a href=\"https://ndeeb.dosedev.com/marketplace/orders/store\">Here</a></p>"
+    },
+    "read_at": null,
+    "created_at": "2021-02-07 16:56:09",
+    "updated_at": "2021-02-07 16:56:09"
+  }
+]

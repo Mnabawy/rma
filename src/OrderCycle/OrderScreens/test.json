@@ -1,0 +1,19 @@
+{"addons": [{"id": 15, "name": "BACKEND", "parent_id": 13, "pivot": [Object], "service_id": 5}, {"id": 20, "name": "UI design", "parent_id": 19, "pivot": [Object], "service_id": 5}], "address": "38M6+3Q، منشية البكري، قسم مصر الجديدة،، محافظة القاهرة‬ 4460022، مصر", "company": null, "company_group": null, "company_id": 1, "created_at": "2022-10-16 10:09:41", "created_by": 35, "delivery_code": "58328", "description": "صفحة جديدة على Play Console للروابط المؤدية لصفحة معيّنة
+
+احصل على نبذة سريعة وشاملة عن الروابط المؤدية إلى صفحات معيّنة في تطبيقك بحيث يكون بإمكانك تحديد المشاكل وحلّها بسهولة.
+
+recycle paper
+any paper
+newspaper", "end_date": "2022-10-02", "group_id": null, "id": 205, "images": [], "lat": "30.082584974768206", "lng": "31.310960724949837", "location_description": "Add details", "receipt_code": "48573", "redirect_reason": null, "reject_reason": null, "service": {"covers_ar": ["https://app.ourservicespro.com/media/user_v1oz1Yz27j/156/%D8%A7%D9%84%D9%86%D9%82%D9%84%D9%8A.png"], "covers_en": ["https://app.ourservicespro.com/media/user_v1oz1Yz27j/157/%D8%A7%D9%84%D9%86%D9%82%D9%84%D9%8A.png"], "description": "صفحة جديدة على Play Console للروابط المؤدية لصفحة معيّنة
+
+احصل على نبذة سريعة وشاملة عن الروابط المؤدية إلى صفحات معيّنة في تطبيقك بحيث يكون بإمكانك تحديد المشاكل وحلّها بسهولة.
+
+recycle paper
+any paper
+newspaper", "id": 14, "image_ar": "https://app.ourservicespro.com/media/user_v1oz1Yz27j/154/%D8%A7%D8%B3%D9%85%D8%A7%D9%83%20%D8%B7%D8%B1%D9%88%D8%A9.png", "image_en": "https://app.ourservicespro.com/media/user_v1oz1Yz27j/155/%D8%A7%D8%B3%D9%85%D8%A7%D9%83%20%D8%B7%D8%B1%D9%88%D8%A9.png", "name": "paper", "parent_id": 13, "terms_and_conditiions": "conditions
+1- name
+2- mobile numberllll
+
+recycle paper
+any paper
+newspaper", "type": "private"}, "service_id": 14, "service_subject": null, "start_date": "2022-10-16", "status": "new", "supplier": null, "supplier_id": null, "updated_at": "2022-10-16 10:09:41", "updated_by": 35, "user_id": 35, "user_rate": null, "working_time": "evening"}

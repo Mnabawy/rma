@@ -1,0 +1,9 @@
+// import {View, Text} from 'react-native';
+// import React from 'react';
+// import Test from '../../components/Test/Test';
+
+// const TestScreen = () => {
+//   return <Test />
+// };
+
+// export default Test;
